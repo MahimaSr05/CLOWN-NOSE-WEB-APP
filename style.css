@@ -1,0 +1,18 @@
+h3
+{
+    font-size: 25px !important;
+    color: floralwhite;
+    background-color:#FFBF00 !important
+}
+
+canvas
+{
+    border: 2px dashed black;
+    border-radius: 30px;
+}
+
+button
+{
+    background-color: #7116C7 !important;
+    
+}
